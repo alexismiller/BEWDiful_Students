@@ -1,6 +1,10 @@
 ###############################################################################
 #
+<<<<<<< HEAD
 # Back-End Web Development - Homework #1 Alexis Miller
+=======
+# Back-End Web Development - Homework #1
+>>>>>>> 3ba82ae7f6f0423adee63f8a072d5bf7c5ed966d
 #
 # Secret Number is a game you will build in two parts.
 # The purpose of the game is to have players guess a secret number from 1-10.
@@ -119,9 +123,6 @@ end
 
 			
 			
-
-
-
 
 
 
